@@ -192,4 +192,4 @@ This project is for educational purposes. Feel free to use and adapt it for your
 
 ## ⭐ If you found this helpful
 
-Give this repository a star ⭐ — it helps others discover it and motivates continued development!
+Give this repository a star ⭐ 
